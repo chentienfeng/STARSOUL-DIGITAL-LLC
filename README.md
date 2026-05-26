@@ -1,4 +1,4 @@
-# STARSOUL GLOBAL RESEARCH (SGR)
+# STARSOUL DIGITAL LLC (SGR)
 
 ![STARSOUL](https://img.shields.io/badge/Project-S0001--01--01-blue)
 ![Status](https://img.shields.io/badge/Status-Public%20Research-green)
